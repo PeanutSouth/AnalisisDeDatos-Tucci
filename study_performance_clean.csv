@@ -1,0 +1,1001 @@
+,gender,race_ethnicity,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+0,F,B,bachelor's degree,standard,False,72,72,74
+1,F,C,some college,standard,True,69,90,88
+2,F,B,master's degree,standard,False,90,95,93
+3,M,A,associate's degree,free/reduced,False,Failed,57,Failed
+4,M,C,some college,standard,False,76,78,75
+5,F,B,associate's degree,standard,False,71,83,78
+6,F,B,some college,standard,True,88,95,92
+7,M,B,some college,free/reduced,False,Failed,Failed,Failed
+8,M,D,high school,free/reduced,True,64,64,67
+9,F,B,high school,free/reduced,False,Failed,60,Failed
+10,M,C,associate's degree,standard,False,58,Failed,Failed
+11,M,D,associate's degree,standard,False,Failed,Failed,Failed
+12,F,B,high school,standard,False,65,81,73
+13,M,A,some college,standard,True,78,72,70
+14,F,A,master's degree,standard,False,Failed,Failed,58
+15,F,C,some high school,standard,False,69,75,78
+16,M,C,high school,standard,False,88,89,86
+17,F,B,some high school,free/reduced,False,Failed,Failed,Failed
+18,M,C,master's degree,free/reduced,True,Failed,Failed,Failed
+19,F,C,associate's degree,free/reduced,False,Failed,58,61
+20,M,D,high school,standard,False,66,69,63
+21,F,B,some college,free/reduced,True,65,75,70
+22,M,D,some college,standard,False,Failed,Failed,Failed
+23,F,C,some high school,standard,False,69,73,73
+24,M,D,bachelor's degree,free/reduced,True,74,71,80
+25,M,A,master's degree,free/reduced,False,73,74,72
+26,M,B,some college,standard,False,69,Failed,55
+27,F,C,bachelor's degree,standard,False,67,69,75
+28,M,C,high school,standard,False,70,70,65
+29,F,D,master's degree,standard,False,62,70,75
+30,F,D,some college,standard,False,69,74,74
+31,F,B,some college,standard,False,63,65,61
+32,F,E,master's degree,free/reduced,False,56,72,65
+33,M,D,some college,standard,False,Failed,Failed,Failed
+34,M,E,some college,standard,False,97,87,82
+35,M,E,associate's degree,standard,True,81,81,79
+36,F,D,associate's degree,standard,False,74,81,83
+37,F,D,some high school,free/reduced,False,Failed,64,59
+38,F,D,associate's degree,free/reduced,True,75,90,88
+39,M,B,associate's degree,free/reduced,False,57,56,57
+40,M,C,associate's degree,free/reduced,False,55,61,Failed
+41,F,C,associate's degree,standard,False,58,73,68
+42,F,B,associate's degree,standard,False,Failed,58,65
+43,M,B,some college,free/reduced,True,59,65,66
+44,F,E,associate's degree,free/reduced,False,Failed,56,Failed
+45,M,B,associate's degree,standard,False,65,Failed,57
+46,F,A,associate's degree,standard,True,55,65,62
+47,F,C,high school,standard,False,66,71,76
+48,F,D,associate's degree,free/reduced,True,57,74,76
+49,M,C,high school,standard,True,82,84,82
+50,M,E,some college,standard,False,Failed,55,Failed
+51,M,E,associate's degree,free/reduced,True,77,69,68
+52,M,C,some college,standard,False,Failed,Failed,Failed
+53,M,D,high school,standard,False,88,78,75
+54,F,C,some high school,free/reduced,True,71,84,87
+55,F,C,high school,free/reduced,False,Failed,Failed,Failed
+56,F,E,associate's degree,standard,True,82,85,86
+57,M,D,associate's degree,standard,False,Failed,55,Failed
+58,M,D,some college,standard,True,58,59,58
+59,F,C,some high school,free/reduced,False,Failed,Failed,Failed
+60,M,E,bachelor's degree,free/reduced,True,79,74,72
+61,M,A,some high school,free/reduced,False,Failed,Failed,Failed
+62,M,A,associate's degree,free/reduced,False,62,61,55
+63,F,C,associate's degree,standard,False,69,80,71
+64,F,D,some high school,standard,False,59,58,59
+65,M,B,some high school,standard,False,67,64,61
+66,M,D,some high school,free/reduced,False,Failed,Failed,Failed
+67,F,C,some college,standard,False,60,72,74
+68,M,B,associate's degree,free/reduced,False,61,58,56
+69,F,C,associate's degree,standard,False,Failed,64,57
+70,F,D,some college,free/reduced,True,58,63,73
+71,M,D,some college,standard,True,63,55,63
+72,F,A,associate's degree,free/reduced,False,Failed,Failed,Failed
+73,M,C,some high school,free/reduced,False,61,57,56
+74,M,C,some high school,standard,False,Failed,Failed,Failed
+75,M,B,associate's degree,free/reduced,False,Failed,Failed,Failed
+76,M,E,some high school,standard,False,Failed,Failed,Failed
+77,M,A,bachelor's degree,standard,True,80,78,81
+78,F,D,some high school,standard,True,61,74,72
+79,F,E,master's degree,standard,False,62,68,68
+80,F,B,associate's degree,standard,False,Failed,Failed,Failed
+81,M,B,high school,free/reduced,False,Failed,Failed,Failed
+82,M,A,some college,free/reduced,True,Failed,Failed,Failed
+83,M,E,associate's degree,standard,False,72,64,63
+84,M,D,high school,free/reduced,False,Failed,Failed,Failed
+85,F,C,some college,standard,False,73,80,82
+86,F,C,some college,free/reduced,False,76,83,88
+87,F,D,associate's degree,standard,False,71,71,74
+88,F,A,some college,standard,False,58,70,67
+89,F,D,some high school,standard,False,73,86,82
+90,F,C,bachelor's degree,standard,False,65,72,74
+91,M,C,high school,free/reduced,False,Failed,Failed,Failed
+92,M,C,high school,standard,False,71,79,71
+93,M,C,associate's degree,free/reduced,True,Failed,Failed,Failed
+94,F,B,some college,standard,False,79,86,92
+95,M,C,associate's degree,free/reduced,True,78,81,82
+96,M,B,some high school,standard,True,65,66,62
+97,F,E,some college,standard,True,63,72,70
+98,F,D,some college,free/reduced,False,58,67,62
+99,F,D,bachelor's degree,standard,False,65,67,62
+100,M,B,some college,standard,False,79,67,67
+101,M,D,bachelor's degree,standard,True,68,74,74
+102,F,D,associate's degree,standard,False,85,91,89
+103,M,B,high school,standard,True,60,Failed,Failed
+104,M,C,some college,standard,True,98,86,90
+105,F,C,some college,standard,False,58,67,72
+106,F,D,master's degree,standard,False,87,100,100
+107,M,E,associate's degree,standard,True,66,63,64
+108,F,B,associate's degree,free/reduced,False,Failed,76,70
+109,F,B,some high school,standard,False,70,64,72
+110,F,D,associate's degree,free/reduced,True,77,89,98
+111,M,C,high school,standard,False,62,55,Failed
+112,M,A,associate's degree,standard,False,Failed,Failed,Failed
+113,F,D,some college,standard,False,Failed,58,Failed
+114,F,E,bachelor's degree,standard,True,99,100,100
+115,M,C,high school,standard,False,84,77,74
+116,F,B,bachelor's degree,free/reduced,False,75,85,82
+117,F,D,bachelor's degree,standard,False,78,82,79
+118,F,D,some high school,standard,False,Failed,63,61
+119,F,C,some college,standard,False,55,69,65
+120,F,C,bachelor's degree,standard,True,79,92,89
+121,M,B,associate's degree,standard,True,91,89,92
+122,F,C,some college,standard,True,88,93,93
+123,M,D,high school,free/reduced,False,63,57,56
+124,M,E,some college,standard,False,83,80,73
+125,F,B,high school,standard,False,87,95,86
+126,M,B,some high school,standard,False,72,68,67
+127,M,D,some college,standard,True,65,77,74
+128,M,D,master's degree,standard,False,82,82,74
+129,F,A,bachelor's degree,standard,False,Failed,Failed,Failed
+130,M,D,master's degree,standard,False,89,84,82
+131,M,C,some high school,free/reduced,True,Failed,Failed,Failed
+132,M,E,some college,free/reduced,True,87,74,70
+133,F,C,some college,standard,True,75,81,84
+134,M,D,bachelor's degree,free/reduced,True,74,79,75
+135,M,C,bachelor's degree,standard,False,58,55,Failed
+136,M,B,some high school,standard,True,Failed,Failed,Failed
+137,M,E,high school,standard,False,70,55,56
+138,F,C,associate's degree,standard,False,59,66,67
+139,M,D,some college,standard,True,71,61,69
+140,F,D,some high school,standard,False,76,72,71
+141,F,C,some college,free/reduced,False,59,62,64
+142,F,E,some college,free/reduced,True,Failed,55,Failed
+143,M,A,high school,standard,False,57,Failed,Failed
+144,M,D,some college,standard,False,88,73,78
+145,F,C,some college,free/reduced,False,Failed,Failed,Failed
+146,M,B,some high school,standard,False,88,84,75
+147,M,C,associate's degree,free/reduced,False,73,68,66
+148,F,D,bachelor's degree,standard,True,68,75,81
+149,M,E,associate's degree,free/reduced,True,100,100,93
+150,M,A,some high school,standard,True,62,67,69
+151,M,A,bachelor's degree,standard,False,77,67,68
+152,F,B,associate's degree,standard,True,59,70,66
+153,M,D,bachelor's degree,standard,False,Failed,Failed,Failed
+154,M,D,some high school,standard,False,62,67,61
+155,F,C,some college,standard,True,70,89,88
+156,F,E,high school,free/reduced,True,66,74,78
+157,M,B,some college,free/reduced,False,60,60,60
+158,F,B,associate's degree,standard,True,61,86,87
+159,M,D,associate's degree,free/reduced,False,66,62,64
+160,M,B,associate's degree,free/reduced,True,82,78,74
+161,F,E,some college,free/reduced,True,75,88,85
+162,M,B,master's degree,free/reduced,False,Failed,Failed,Failed
+163,M,C,high school,standard,False,Failed,Failed,Failed
+164,F,E,master's degree,standard,False,81,92,91
+165,F,C,bachelor's degree,standard,True,96,100,100
+166,M,C,high school,free/reduced,True,Failed,Failed,Failed
+167,F,B,master's degree,free/reduced,True,58,76,78
+168,F,B,high school,standard,True,68,83,78
+169,F,C,some college,free/reduced,True,67,75,70
+170,M,A,high school,standard,True,72,73,74
+171,M,E,some high school,standard,False,94,88,78
+172,F,D,some college,standard,False,79,86,81
+173,F,C,associate's degree,standard,False,63,67,70
+174,F,C,bachelor's degree,free/reduced,True,Failed,Failed,Failed
+175,F,C,master's degree,standard,True,81,91,87
+176,F,B,high school,free/reduced,True,Failed,Failed,58
+177,F,C,associate's degree,standard,True,71,77,77
+178,F,B,master's degree,free/reduced,True,Failed,70,62
+179,F,D,some high school,standard,True,97,100,100
+180,M,C,master's degree,free/reduced,True,62,68,75
+181,F,C,some college,free/reduced,False,Failed,64,66
+182,F,E,high school,standard,False,Failed,Failed,Failed
+183,F,D,associate's degree,standard,False,65,69,70
+184,M,C,some high school,free/reduced,True,Failed,Failed,Failed
+185,M,C,associate's degree,free/reduced,True,65,67,65
+186,M,E,high school,standard,False,80,76,65
+187,M,D,some high school,standard,True,62,66,68
+188,M,B,some high school,free/reduced,False,Failed,Failed,Failed
+189,F,C,bachelor's degree,standard,False,77,88,87
+190,F,E,associate's degree,standard,False,66,65,69
+191,M,D,some college,standard,True,76,83,79
+192,F,B,some high school,standard,False,62,64,66
+193,M,D,some college,standard,True,77,62,62
+194,F,C,master's degree,standard,True,69,84,85
+195,M,D,associate's degree,standard,False,61,55,Failed
+196,M,C,some high school,free/reduced,True,59,69,65
+197,M,E,high school,free/reduced,False,55,56,Failed
+198,F,B,some college,free/reduced,False,Failed,Failed,55
+199,F,B,bachelor's degree,free/reduced,False,78,79,76
+200,F,C,associate's degree,standard,True,67,84,86
+201,F,D,some college,free/reduced,False,65,81,77
+202,M,C,associate's degree,standard,False,69,77,69
+203,F,B,associate's degree,standard,False,57,69,68
+204,M,C,some college,standard,False,59,Failed,Failed
+205,M,D,some high school,standard,True,74,71,78
+206,M,E,bachelor's degree,standard,False,82,62,62
+207,M,E,high school,standard,True,81,80,76
+208,F,B,some college,free/reduced,False,74,81,76
+209,F,B,some college,free/reduced,False,58,61,66
+210,M,D,some high school,free/reduced,True,80,79,79
+211,M,C,some college,free/reduced,False,Failed,Failed,Failed
+212,F,C,high school,free/reduced,False,Failed,62,60
+213,M,C,associate's degree,free/reduced,True,60,Failed,56
+214,M,E,high school,standard,True,87,91,81
+215,M,B,some high school,standard,True,84,83,75
+216,F,E,associate's degree,free/reduced,True,83,86,88
+217,F,C,high school,free/reduced,False,Failed,Failed,Failed
+218,M,B,high school,free/reduced,False,66,77,70
+219,M,B,some high school,standard,True,61,56,56
+220,F,D,high school,standard,True,56,68,74
+221,M,B,associate's degree,standard,False,87,85,73
+222,F,C,some high school,free/reduced,False,55,65,62
+223,M,D,some high school,standard,False,86,80,75
+224,F,B,associate's degree,standard,True,Failed,66,73
+225,F,E,master's degree,free/reduced,False,Failed,56,Failed
+226,F,C,some college,standard,False,72,72,71
+227,M,D,high school,standard,False,57,Failed,Failed
+228,M,A,some high school,free/reduced,False,68,72,64
+229,F,C,some college,standard,True,88,95,94
+230,M,D,some college,standard,False,76,64,66
+231,M,C,associate's degree,standard,False,Failed,Failed,Failed
+232,F,B,bachelor's degree,standard,False,67,86,83
+233,M,E,some high school,standard,False,92,87,78
+234,M,C,bachelor's degree,standard,True,83,82,84
+235,M,D,associate's degree,standard,False,80,75,77
+236,M,D,bachelor's degree,free/reduced,False,63,66,67
+237,F,D,some high school,standard,True,64,60,74
+238,M,B,some college,standard,False,Failed,Failed,Failed
+239,M,C,associate's degree,standard,False,84,80,80
+240,M,D,high school,free/reduced,True,73,68,66
+241,F,E,bachelor's degree,standard,False,80,83,83
+242,F,D,high school,standard,False,56,Failed,55
+243,M,E,some college,standard,False,59,Failed,Failed
+244,M,D,some high school,standard,False,75,74,69
+245,M,C,associate's degree,standard,False,85,76,71
+246,M,E,associate's degree,standard,False,89,76,74
+247,F,B,high school,standard,True,58,70,68
+248,F,B,high school,standard,False,65,64,62
+249,M,C,high school,standard,False,68,60,Failed
+250,M,A,some high school,standard,True,Failed,Failed,Failed
+251,F,D,some college,free/reduced,False,71,83,83
+252,F,B,some high school,standard,True,60,70,70
+253,M,D,master's degree,standard,False,80,80,72
+254,M,D,high school,standard,False,Failed,Failed,Failed
+255,F,E,some college,standard,False,62,73,70
+256,F,C,associate's degree,free/reduced,False,64,73,68
+257,M,C,associate's degree,standard,True,78,77,77
+258,F,B,some college,standard,False,70,75,78
+259,F,C,master's degree,free/reduced,True,65,81,81
+260,F,C,some high school,free/reduced,True,64,79,77
+261,M,C,some college,standard,True,79,79,78
+262,F,C,some high school,free/reduced,False,Failed,Failed,Failed
+263,F,E,high school,standard,False,99,93,90
+264,M,D,high school,standard,False,76,73,68
+265,M,D,some high school,free/reduced,False,59,Failed,Failed
+266,F,C,bachelor's degree,standard,False,63,75,81
+267,F,D,high school,standard,False,69,72,77
+268,F,D,associate's degree,standard,True,88,92,95
+269,F,E,some college,free/reduced,False,71,76,70
+270,M,C,bachelor's degree,standard,False,69,63,61
+271,M,C,some college,standard,False,58,Failed,Failed
+272,F,D,associate's degree,free/reduced,False,Failed,Failed,58
+273,F,D,some college,standard,False,65,70,71
+274,M,B,some college,standard,True,88,85,76
+275,M,C,bachelor's degree,standard,False,83,78,73
+276,F,C,some high school,standard,True,85,92,93
+277,F,E,high school,standard,True,59,63,75
+278,F,C,some high school,free/reduced,False,65,86,80
+279,M,B,bachelor's degree,free/reduced,False,73,56,57
+280,M,D,high school,standard,False,Failed,Failed,Failed
+281,M,D,high school,standard,False,Failed,Failed,Failed
+282,F,D,bachelor's degree,free/reduced,False,73,79,84
+283,F,D,some college,free/reduced,True,70,78,78
+284,F,B,some high school,standard,False,Failed,Failed,Failed
+285,M,B,associate's degree,standard,True,81,82,82
+286,M,E,associate's degree,standard,True,97,82,88
+287,F,B,some high school,standard,False,67,89,82
+288,M,B,bachelor's degree,free/reduced,False,88,75,76
+289,M,E,some high school,standard,True,77,76,77
+290,M,C,associate's degree,standard,False,76,70,68
+291,M,D,some high school,standard,False,86,73,70
+292,M,C,some high school,standard,True,63,60,57
+293,F,E,bachelor's degree,standard,False,65,73,75
+294,M,D,high school,free/reduced,True,78,77,80
+295,M,B,associate's degree,free/reduced,False,67,62,60
+296,M,A,some high school,standard,True,Failed,Failed,Failed
+297,M,E,associate's degree,standard,True,71,74,68
+298,M,C,high school,free/reduced,True,Failed,Failed,Failed
+299,M,D,associate's degree,free/reduced,False,90,87,75
+300,M,A,some college,free/reduced,True,81,78,81
+301,M,D,some high school,free/reduced,False,56,Failed,Failed
+302,F,C,associate's degree,standard,True,67,84,81
+303,M,B,associate's degree,standard,False,80,76,64
+304,F,C,associate's degree,standard,True,74,75,83
+305,M,A,some college,standard,False,69,67,69
+306,M,E,some college,standard,True,99,87,81
+307,M,C,some high school,standard,False,Failed,Failed,Failed
+308,F,B,associate's degree,free/reduced,False,Failed,71,67
+309,F,D,high school,free/reduced,False,Failed,57,Failed
+310,F,B,associate's degree,standard,False,73,76,80
+311,M,B,bachelor's degree,standard,False,66,60,57
+312,M,D,bachelor's degree,standard,True,67,61,68
+313,F,C,associate's degree,free/reduced,True,68,67,69
+314,F,C,bachelor's degree,standard,True,59,64,75
+315,M,C,high school,standard,False,71,66,65
+316,F,D,master's degree,standard,True,77,82,91
+317,M,C,associate's degree,standard,False,83,72,78
+318,M,B,bachelor's degree,standard,False,63,71,69
+319,F,D,associate's degree,free/reduced,False,56,65,63
+320,F,C,high school,free/reduced,True,67,79,84
+321,F,E,high school,standard,False,75,86,79
+322,F,C,some college,standard,False,71,81,80
+323,F,C,some high school,free/reduced,False,Failed,Failed,Failed
+324,F,C,high school,free/reduced,False,Failed,Failed,Failed
+325,F,C,some college,standard,False,82,90,94
+326,M,C,some college,standard,False,61,61,62
+327,M,A,some college,free/reduced,False,Failed,Failed,Failed
+328,M,C,associate's degree,standard,True,82,75,77
+329,F,B,some high school,standard,False,Failed,55,Failed
+330,M,C,high school,standard,False,71,60,61
+331,M,C,associate's degree,standard,False,Failed,Failed,Failed
+332,M,E,associate's degree,standard,True,62,56,Failed
+333,M,B,associate's degree,standard,False,90,78,81
+334,F,C,bachelor's degree,standard,False,83,93,95
+335,F,B,some college,free/reduced,False,61,68,66
+336,M,D,some high school,standard,True,76,70,69
+337,M,C,associate's degree,standard,False,Failed,Failed,Failed
+338,F,B,some high school,free/reduced,False,Failed,Failed,Failed
+339,F,D,some high school,free/reduced,True,Failed,55,60
+340,M,C,high school,free/reduced,False,58,61,Failed
+341,F,C,high school,standard,False,61,73,63
+342,F,B,high school,standard,True,69,76,74
+343,M,D,associate's degree,standard,True,67,72,67
+344,M,D,some college,standard,False,79,73,67
+345,F,C,high school,standard,False,72,80,75
+346,M,B,some college,standard,False,62,61,57
+347,F,C,bachelor's degree,standard,True,77,94,95
+348,M,D,high school,free/reduced,False,75,74,66
+349,M,E,associate's degree,standard,False,87,74,76
+350,F,B,bachelor's degree,standard,False,Failed,65,69
+351,M,E,some college,standard,False,66,57,Failed
+352,F,C,some college,standard,True,63,78,80
+353,F,C,associate's degree,standard,False,Failed,58,57
+354,F,C,some college,standard,False,59,71,70
+355,F,B,bachelor's degree,standard,False,61,72,70
+356,M,A,associate's degree,standard,False,63,61,61
+357,F,C,some college,free/reduced,True,Failed,66,69
+358,M,D,some college,free/reduced,False,59,62,61
+359,F,D,some college,standard,False,80,90,89
+360,F,B,high school,standard,False,58,62,59
+361,M,B,some high school,standard,True,85,84,78
+362,F,C,some college,standard,False,Failed,58,58
+363,F,D,some high school,free/reduced,False,Failed,Failed,Failed
+364,M,C,some college,standard,False,59,60,58
+365,M,A,bachelor's degree,free/reduced,True,Failed,58,60
+366,M,C,high school,standard,True,69,58,Failed
+367,M,C,bachelor's degree,free/reduced,False,61,66,61
+368,F,A,some high school,free/reduced,False,Failed,64,58
+369,F,D,some high school,standard,False,73,84,85
+370,M,E,some college,standard,False,84,77,71
+371,F,C,some college,free/reduced,True,Failed,73,70
+372,M,D,some high school,standard,False,74,74,72
+373,F,D,some college,standard,True,82,97,96
+374,F,D,bachelor's degree,standard,False,59,70,73
+375,M,E,associate's degree,free/reduced,False,Failed,Failed,Failed
+376,F,D,some high school,standard,False,80,90,82
+377,F,D,master's degree,free/reduced,True,85,95,100
+378,F,A,some high school,standard,False,71,83,77
+379,M,A,bachelor's degree,standard,False,66,64,62
+380,F,B,associate's degree,standard,False,80,86,83
+381,M,C,associate's degree,standard,True,87,100,95
+382,M,C,master's degree,free/reduced,False,79,81,71
+383,F,E,some high school,free/reduced,False,Failed,Failed,Failed
+384,F,A,some high school,free/reduced,False,Failed,Failed,Failed
+385,F,E,some college,standard,False,67,76,75
+386,F,E,bachelor's degree,standard,False,64,73,70
+387,F,C,associate's degree,free/reduced,False,57,78,67
+388,F,D,high school,standard,False,62,64,64
+389,M,D,master's degree,standard,False,73,70,75
+390,M,E,some high school,free/reduced,True,73,67,59
+391,F,D,some college,standard,False,77,68,77
+392,M,E,some college,standard,False,76,67,67
+393,M,C,associate's degree,standard,True,57,Failed,56
+394,F,C,some high school,standard,True,65,74,77
+395,M,A,high school,free/reduced,False,Failed,Failed,Failed
+396,F,B,high school,free/reduced,False,Failed,67,63
+397,F,C,associate's degree,standard,False,85,89,95
+398,M,B,some high school,standard,False,74,63,57
+399,M,D,some high school,standard,False,60,59,Failed
+400,F,C,some high school,standard,True,59,Failed,67
+401,M,A,some college,standard,False,Failed,Failed,Failed
+402,F,A,some college,free/reduced,False,Failed,65,55
+403,F,D,high school,standard,True,88,99,100
+404,F,C,high school,standard,False,Failed,59,62
+405,F,C,some high school,standard,False,63,73,68
+406,M,B,associate's degree,standard,True,65,65,63
+407,F,B,associate's degree,standard,False,82,80,77
+408,F,D,high school,free/reduced,True,Failed,57,56
+409,M,D,associate's degree,standard,True,87,84,85
+410,F,D,master's degree,standard,True,70,71,74
+411,M,E,some college,standard,True,84,83,78
+412,M,D,associate's degree,standard,False,71,66,60
+413,M,B,some high school,standard,True,63,67,67
+414,F,C,bachelor's degree,free/reduced,True,Failed,72,79
+415,M,E,high school,standard,False,84,73,69
+416,M,C,bachelor's degree,standard,True,71,74,68
+417,M,C,associate's degree,standard,False,74,73,67
+418,M,D,some college,standard,False,68,59,62
+419,M,E,high school,free/reduced,True,57,56,Failed
+420,F,C,associate's degree,free/reduced,True,82,93,93
+421,F,D,high school,standard,True,57,58,64
+422,F,D,master's degree,free/reduced,True,Failed,58,67
+423,F,A,some high school,standard,True,59,85,80
+424,M,B,some college,free/reduced,False,Failed,Failed,Failed
+425,F,C,some college,free/reduced,False,62,67,62
+426,M,C,bachelor's degree,standard,False,86,83,86
+427,M,C,some high school,free/reduced,False,69,71,65
+428,M,A,some high school,free/reduced,False,65,59,Failed
+429,M,C,some high school,free/reduced,False,68,63,Failed
+430,M,C,associate's degree,free/reduced,False,64,66,59
+431,F,C,high school,standard,False,61,72,70
+432,M,C,high school,standard,False,61,56,55
+433,F,A,some high school,free/reduced,False,Failed,59,Failed
+434,M,C,some high school,standard,False,73,66,66
+435,M,C,some college,free/reduced,True,Failed,Failed,Failed
+436,M,D,associate's degree,standard,False,75,68,64
+437,M,D,associate's degree,free/reduced,False,75,66,73
+438,M,C,high school,standard,False,70,56,Failed
+439,M,D,some high school,standard,True,89,88,82
+440,F,C,some college,standard,True,67,81,79
+441,F,D,high school,standard,False,78,81,80
+442,F,A,some high school,free/reduced,False,59,73,69
+443,F,B,associate's degree,standard,False,73,83,76
+444,M,A,some high school,free/reduced,False,79,82,73
+445,F,C,some high school,standard,True,67,74,77
+446,M,D,some college,free/reduced,False,69,66,60
+447,M,C,high school,standard,True,86,81,80
+448,M,B,high school,standard,False,Failed,Failed,Failed
+449,M,B,associate's degree,standard,False,81,73,72
+450,F,C,some college,free/reduced,True,64,85,85
+451,F,E,some college,standard,False,100,92,97
+452,F,C,associate's degree,free/reduced,False,65,77,74
+453,M,C,some college,free/reduced,False,65,58,Failed
+454,F,C,associate's degree,free/reduced,False,Failed,61,62
+455,M,C,bachelor's degree,free/reduced,False,Failed,56,Failed
+456,F,D,bachelor's degree,standard,False,79,89,89
+457,M,D,associate's degree,free/reduced,False,Failed,Failed,Failed
+458,F,E,bachelor's degree,standard,False,100,100,100
+459,M,B,high school,standard,True,72,65,68
+460,M,C,bachelor's degree,free/reduced,False,Failed,58,55
+461,M,B,some college,free/reduced,False,Failed,Failed,Failed
+462,F,E,some college,standard,False,71,70,76
+463,F,C,some college,free/reduced,False,77,90,91
+464,M,A,bachelor's degree,standard,True,75,58,62
+465,F,C,some college,standard,False,84,87,91
+466,F,D,associate's degree,free/reduced,False,Failed,Failed,Failed
+467,M,A,high school,free/reduced,True,72,67,65
+468,F,A,high school,free/reduced,True,77,88,85
+469,M,C,some college,standard,False,91,74,76
+470,F,C,associate's degree,standard,True,83,85,90
+471,F,C,high school,standard,False,63,69,74
+472,F,C,associate's degree,standard,True,68,86,84
+473,F,D,some high school,standard,False,59,67,61
+474,F,B,associate's degree,standard,True,90,90,91
+475,F,D,bachelor's degree,standard,True,71,76,83
+476,M,E,bachelor's degree,standard,True,76,62,66
+477,M,D,associate's degree,standard,False,80,68,72
+478,F,D,master's degree,standard,False,55,64,70
+479,M,E,associate's degree,standard,False,76,71,67
+480,M,B,high school,standard,True,73,71,68
+481,F,D,associate's degree,free/reduced,False,Failed,59,56
+482,M,C,some college,free/reduced,False,68,68,61
+483,M,A,high school,standard,False,59,Failed,Failed
+484,F,B,associate's degree,standard,False,Failed,Failed,Failed
+485,M,C,high school,standard,False,70,74,71
+486,M,D,some college,free/reduced,False,61,Failed,56
+487,F,C,associate's degree,free/reduced,False,60,75,74
+488,M,B,some high school,standard,True,64,Failed,57
+489,M,A,associate's degree,free/reduced,True,79,82,82
+490,F,A,associate's degree,free/reduced,False,65,85,76
+491,F,C,associate's degree,standard,False,64,64,70
+492,F,C,some college,standard,False,83,83,90
+493,F,C,bachelor's degree,standard,False,81,88,90
+494,F,B,high school,standard,False,Failed,64,68
+495,M,D,high school,standard,True,68,64,66
+496,F,C,some college,standard,False,Failed,Failed,Failed
+497,F,D,some college,free/reduced,True,59,78,76
+498,F,B,some high school,standard,False,66,69,68
+499,M,E,some college,standard,False,76,71,72
+500,F,D,master's degree,standard,False,74,79,82
+501,F,B,associate's degree,standard,True,94,87,92
+502,M,C,some college,free/reduced,False,63,61,Failed
+503,F,E,associate's degree,standard,True,95,89,92
+504,F,D,master's degree,free/reduced,False,Failed,59,Failed
+505,F,B,some high school,standard,False,82,82,80
+506,M,A,high school,standard,False,68,70,66
+507,M,B,bachelor's degree,free/reduced,False,55,59,Failed
+508,M,C,master's degree,standard,False,79,78,77
+509,F,C,bachelor's degree,standard,False,86,92,87
+510,M,D,some college,standard,False,76,71,73
+511,M,A,some high school,standard,False,64,Failed,Failed
+512,M,D,some high school,free/reduced,False,62,Failed,Failed
+513,F,B,some high school,standard,True,Failed,61,62
+514,F,B,master's degree,free/reduced,True,77,97,94
+515,F,C,some high school,standard,True,76,87,85
+516,F,D,some college,standard,False,74,89,84
+517,F,E,some college,standard,True,66,74,73
+518,F,D,some high school,standard,True,66,78,78
+519,F,B,high school,free/reduced,True,67,78,79
+520,M,D,some college,standard,False,71,Failed,Failed
+521,F,C,associate's degree,standard,False,91,86,84
+522,M,D,bachelor's degree,standard,False,69,58,57
+523,M,C,master's degree,free/reduced,False,Failed,59,Failed
+524,M,C,high school,standard,True,Failed,Failed,Failed
+525,M,E,some college,standard,False,68,60,59
+526,M,C,some high school,free/reduced,True,56,61,60
+527,F,C,high school,free/reduced,False,Failed,Failed,Failed
+528,F,D,bachelor's degree,free/reduced,False,Failed,Failed,Failed
+529,F,C,associate's degree,standard,False,62,74,70
+530,F,C,associate's degree,standard,True,68,67,73
+531,F,C,some high school,standard,False,Failed,Failed,Failed
+532,M,E,associate's degree,standard,True,62,61,58
+533,F,E,associate's degree,standard,True,79,88,94
+534,M,B,high school,standard,True,73,69,68
+535,F,C,bachelor's degree,free/reduced,True,66,83,83
+536,M,C,associate's degree,standard,True,Failed,60,58
+537,F,D,high school,standard,False,Failed,66,62
+538,M,E,bachelor's degree,standard,True,85,66,71
+539,M,A,associate's degree,standard,True,97,92,86
+540,M,C,high school,standard,True,75,69,68
+541,M,D,associate's degree,free/reduced,True,79,82,80
+542,F,C,associate's degree,standard,False,81,77,79
+543,F,D,associate's degree,standard,False,82,95,89
+544,F,D,master's degree,standard,False,64,63,66
+545,M,E,some high school,free/reduced,True,78,83,80
+546,F,A,some high school,standard,True,92,100,97
+547,M,C,high school,standard,True,72,67,64
+548,F,C,high school,free/reduced,False,62,67,64
+549,M,C,master's degree,standard,False,79,72,69
+550,M,C,some high school,free/reduced,False,79,76,65
+551,M,B,bachelor's degree,free/reduced,True,87,90,88
+552,F,B,associate's degree,standard,False,Failed,Failed,Failed
+553,M,D,some college,free/reduced,False,77,62,64
+554,M,E,associate's degree,standard,False,Failed,Failed,Failed
+555,F,C,some college,free/reduced,False,Failed,Failed,Failed
+556,F,C,associate's degree,standard,True,55,72,79
+557,M,C,master's degree,free/reduced,False,61,67,66
+558,F,B,associate's degree,free/reduced,False,Failed,70,70
+559,M,D,some high school,standard,False,73,66,62
+560,F,D,some college,standard,True,74,75,79
+561,F,C,some college,standard,False,63,74,74
+562,M,C,bachelor's degree,standard,True,96,90,92
+563,F,D,some college,free/reduced,True,63,80,80
+564,M,B,bachelor's degree,free/reduced,False,Failed,Failed,Failed
+565,M,B,associate's degree,standard,False,Failed,Failed,Failed
+566,F,E,bachelor's degree,free/reduced,True,92,100,100
+567,F,D,master's degree,free/reduced,True,61,71,78
+568,M,B,high school,free/reduced,False,63,Failed,Failed
+569,M,D,bachelor's degree,free/reduced,False,68,68,67
+570,M,B,some college,standard,True,71,75,70
+571,M,A,bachelor's degree,standard,False,91,96,92
+572,F,C,some college,standard,False,Failed,62,56
+573,F,C,high school,free/reduced,True,Failed,66,64
+574,F,E,high school,standard,False,74,81,71
+575,M,A,associate's degree,free/reduced,True,Failed,55,Failed
+576,M,A,some college,standard,True,61,Failed,Failed
+577,F,B,high school,standard,False,81,91,89
+578,F,B,some college,free/reduced,True,Failed,56,58
+579,F,D,master's degree,standard,False,Failed,61,68
+580,F,D,some high school,standard,False,81,97,96
+581,F,E,some high school,standard,False,77,79,80
+582,F,D,bachelor's degree,free/reduced,False,63,73,78
+583,F,D,associate's degree,standard,True,73,75,80
+584,F,D,some college,standard,False,69,77,77
+585,F,C,associate's degree,standard,False,65,76,76
+586,F,A,high school,standard,False,55,73,73
+587,F,C,bachelor's degree,free/reduced,False,Failed,63,62
+588,F,C,some college,standard,False,Failed,64,65
+589,F,A,some high school,standard,False,Failed,66,65
+590,M,C,some college,free/reduced,False,58,57,Failed
+591,M,A,some high school,standard,False,71,62,Failed
+592,M,E,bachelor's degree,standard,False,68,68,64
+593,F,E,high school,standard,False,74,76,73
+594,F,C,bachelor's degree,standard,True,92,100,99
+595,F,C,bachelor's degree,standard,True,56,79,72
+596,M,B,high school,free/reduced,False,Failed,Failed,Failed
+597,M,A,some high school,standard,False,Failed,Failed,Failed
+598,F,D,high school,standard,False,69,77,73
+599,F,D,some high school,standard,False,65,82,81
+600,F,D,master's degree,standard,False,Failed,60,63
+601,F,C,high school,standard,False,Failed,Failed,Failed
+602,F,E,some college,standard,False,76,78,80
+603,M,D,high school,free/reduced,False,60,57,Failed
+604,M,D,master's degree,free/reduced,True,84,89,90
+605,M,C,some high school,standard,False,75,72,62
+606,F,C,associate's degree,standard,False,85,84,82
+607,F,C,master's degree,free/reduced,False,Failed,58,Failed
+608,F,E,some college,standard,False,61,64,62
+609,F,B,associate's degree,standard,False,58,63,65
+610,M,D,some college,free/reduced,True,69,60,63
+611,F,C,some college,standard,False,58,59,66
+612,M,C,bachelor's degree,standard,True,94,90,91
+613,F,C,associate's degree,standard,False,65,77,74
+614,F,A,associate's degree,standard,False,82,93,93
+615,F,C,high school,standard,False,60,68,72
+616,F,E,bachelor's degree,standard,False,Failed,Failed,Failed
+617,M,D,bachelor's degree,standard,False,88,78,83
+618,M,D,master's degree,standard,False,95,81,84
+619,M,C,associate's degree,free/reduced,True,65,73,68
+620,F,C,high school,free/reduced,False,Failed,61,Failed
+621,M,B,bachelor's degree,free/reduced,False,62,63,56
+622,M,C,high school,free/reduced,True,58,Failed,Failed
+623,M,A,some college,standard,True,100,96,86
+624,F,E,bachelor's degree,free/reduced,False,61,58,62
+625,M,D,some college,standard,True,100,97,99
+626,M,B,associate's degree,free/reduced,True,69,70,63
+627,M,D,associate's degree,standard,False,61,Failed,Failed
+628,M,D,some college,free/reduced,False,Failed,57,Failed
+629,F,C,some high school,standard,True,Failed,Failed,55
+630,M,D,some college,standard,False,67,64,70
+631,M,B,high school,standard,False,79,60,65
+632,F,B,bachelor's degree,standard,True,66,74,81
+633,F,C,high school,standard,False,75,88,85
+634,M,D,some high school,standard,False,84,84,80
+635,M,A,high school,standard,False,71,74,64
+636,F,B,high school,free/reduced,True,67,80,81
+637,F,D,some high school,standard,True,80,92,88
+638,M,E,some college,standard,False,86,76,74
+639,F,D,associate's degree,standard,False,76,74,73
+640,M,D,high school,standard,False,Failed,Failed,Failed
+641,F,D,associate's degree,free/reduced,True,74,88,90
+642,F,B,some high school,free/reduced,False,72,81,79
+643,F,E,high school,standard,True,74,79,80
+644,M,B,high school,standard,False,70,65,60
+645,F,B,bachelor's degree,standard,True,65,81,81
+646,F,D,associate's degree,standard,False,59,70,65
+647,F,E,high school,free/reduced,False,64,62,68
+648,F,B,high school,standard,False,Failed,Failed,55
+649,F,D,some college,standard,True,69,79,81
+650,M,C,some high school,free/reduced,True,Failed,56,Failed
+651,F,A,high school,standard,True,68,80,76
+652,F,D,some college,standard,True,85,86,98
+653,F,A,associate's degree,standard,True,65,70,74
+654,F,B,some high school,standard,False,73,79,79
+655,F,B,some college,standard,False,62,67,67
+656,M,C,associate's degree,free/reduced,False,77,67,64
+657,M,D,some high school,standard,False,69,66,61
+658,F,D,associate's degree,free/reduced,False,Failed,60,58
+659,M,D,associate's degree,standard,False,90,87,85
+660,M,C,some college,free/reduced,False,74,77,73
+661,M,C,some high school,standard,False,73,66,63
+662,F,D,some college,free/reduced,False,55,71,69
+663,F,C,high school,standard,False,65,69,67
+664,M,D,associate's degree,standard,False,80,63,63
+665,F,C,some high school,free/reduced,True,Failed,60,60
+666,F,C,some college,free/reduced,True,63,73,71
+667,F,B,bachelor's degree,free/reduced,False,77,85,87
+668,M,C,some college,standard,False,73,74,61
+669,M,D,associate's degree,standard,True,81,72,77
+670,F,C,high school,free/reduced,False,66,76,68
+671,M,D,associate's degree,free/reduced,False,Failed,57,Failed
+672,F,C,some college,standard,False,69,78,76
+673,F,C,associate's degree,standard,True,65,84,84
+674,F,D,high school,standard,True,69,77,78
+675,F,B,some college,standard,True,Failed,64,66
+676,F,E,some college,standard,True,73,78,76
+677,F,C,some high school,standard,True,70,82,76
+678,M,D,associate's degree,free/reduced,False,81,75,78
+679,M,D,some college,free/reduced,False,63,61,60
+680,F,D,high school,standard,False,67,72,74
+681,M,B,high school,standard,False,60,68,60
+682,M,B,high school,standard,False,62,55,Failed
+683,F,C,some high school,free/reduced,True,Failed,Failed,Failed
+684,M,B,some college,standard,True,62,66,68
+685,F,E,master's degree,standard,True,94,99,100
+686,M,E,some college,standard,True,85,75,68
+687,M,D,associate's degree,free/reduced,False,77,78,73
+688,M,A,high school,free/reduced,False,Failed,58,Failed
+689,M,E,some college,free/reduced,False,93,90,83
+690,F,C,associate's degree,standard,False,Failed,Failed,Failed
+691,F,E,associate's degree,free/reduced,False,73,76,78
+692,F,C,bachelor's degree,free/reduced,True,66,74,81
+693,F,D,associate's degree,standard,False,77,77,73
+694,F,C,some high school,standard,False,Failed,63,56
+695,F,D,some college,free/reduced,False,79,89,86
+696,F,C,associate's degree,standard,True,75,82,90
+697,F,A,bachelor's degree,standard,False,59,72,70
+698,F,D,associate's degree,standard,True,57,78,79
+699,M,C,high school,free/reduced,False,66,66,59
+700,F,E,bachelor's degree,standard,True,79,81,82
+701,F,B,some high school,standard,False,57,67,72
+702,M,A,bachelor's degree,standard,True,87,84,87
+703,F,D,some college,standard,False,63,64,67
+704,F,B,some high school,free/reduced,True,59,63,64
+705,M,A,bachelor's degree,free/reduced,False,62,72,65
+706,M,D,high school,standard,False,Failed,Failed,Failed
+707,M,C,some college,standard,False,66,59,Failed
+708,M,D,high school,standard,False,89,87,79
+709,F,D,associate's degree,free/reduced,True,Failed,61,58
+710,M,C,some college,standard,True,93,84,90
+711,F,E,some high school,standard,True,80,85,85
+712,F,D,some college,standard,False,98,100,99
+713,M,D,master's degree,standard,False,81,81,84
+714,F,B,some high school,standard,True,60,70,74
+715,F,B,associate's degree,free/reduced,True,76,94,87
+716,M,C,associate's degree,standard,True,73,78,72
+717,F,C,associate's degree,standard,True,96,96,99
+718,F,C,high school,standard,False,76,76,74
+719,M,E,associate's degree,free/reduced,True,91,73,80
+720,F,C,some college,free/reduced,False,62,72,70
+721,M,D,some high school,free/reduced,True,55,59,59
+722,F,B,some high school,free/reduced,True,74,90,88
+723,M,C,high school,standard,False,Failed,Failed,Failed
+724,M,B,some college,standard,False,Failed,Failed,Failed
+725,M,E,some college,standard,True,81,74,71
+726,F,E,associate's degree,standard,True,65,75,77
+727,M,E,some high school,standard,True,68,Failed,57
+728,F,D,high school,free/reduced,False,73,92,84
+729,M,C,some college,standard,False,Failed,Failed,Failed
+730,F,B,associate's degree,free/reduced,True,68,77,80
+731,M,A,some high school,free/reduced,False,55,Failed,Failed
+732,F,C,some college,standard,True,87,89,94
+733,M,D,some high school,standard,False,55,Failed,Failed
+734,F,E,some college,free/reduced,False,Failed,58,57
+735,M,C,master's degree,standard,False,67,57,59
+736,M,C,associate's degree,standard,False,92,79,84
+737,F,B,some college,free/reduced,True,Failed,66,73
+738,M,D,associate's degree,standard,False,81,71,73
+739,M,C,high school,free/reduced,False,61,60,55
+740,M,D,bachelor's degree,standard,False,80,73,72
+741,F,A,associate's degree,free/reduced,False,Failed,57,56
+742,F,C,high school,standard,False,81,84,82
+743,F,C,associate's degree,standard,True,59,73,72
+744,M,B,some college,free/reduced,False,55,55,Failed
+745,M,D,associate's degree,standard,False,72,79,74
+746,M,D,high school,standard,False,69,75,71
+747,M,C,some college,standard,False,69,64,68
+748,F,C,bachelor's degree,free/reduced,False,Failed,60,59
+749,M,B,some college,standard,True,87,84,86
+750,M,D,some high school,standard,True,71,69,68
+751,M,E,some college,standard,False,68,72,65
+752,M,C,master's degree,free/reduced,True,79,77,75
+753,F,C,some high school,standard,True,77,90,85
+754,M,C,associate's degree,free/reduced,False,58,55,Failed
+755,F,E,associate's degree,standard,False,84,95,92
+756,M,D,some college,standard,False,55,58,Failed
+757,M,E,bachelor's degree,free/reduced,True,70,68,72
+758,F,D,some college,free/reduced,True,Failed,59,65
+759,M,B,some college,standard,True,69,77,77
+760,F,C,high school,free/reduced,False,Failed,72,64
+761,F,D,some high school,standard,False,Failed,58,Failed
+762,M,D,some high school,standard,True,78,81,86
+763,F,B,high school,standard,False,62,62,63
+764,M,D,some college,standard,False,60,63,59
+765,F,B,high school,standard,False,74,72,72
+766,F,C,high school,standard,True,58,75,77
+767,M,B,high school,standard,True,76,62,60
+768,F,D,some high school,standard,False,68,71,75
+769,M,A,some college,free/reduced,False,58,60,57
+770,M,B,high school,standard,False,Failed,Failed,Failed
+771,M,D,bachelor's degree,standard,False,75,73,74
+772,F,B,some high school,free/reduced,True,Failed,67,72
+773,F,C,bachelor's degree,free/reduced,False,62,78,79
+774,M,B,some college,standard,False,66,65,60
+775,F,B,some high school,free/reduced,False,Failed,58,55
+776,F,B,high school,standard,False,66,72,70
+777,F,C,some college,free/reduced,False,Failed,Failed,Failed
+778,F,A,some college,standard,True,72,79,82
+779,M,E,associate's degree,standard,True,94,85,82
+780,F,D,associate's degree,free/reduced,False,Failed,56,57
+781,F,B,master's degree,standard,False,77,90,84
+782,F,B,high school,free/reduced,True,76,85,82
+783,F,C,associate's degree,standard,True,Failed,59,62
+784,M,C,bachelor's degree,standard,True,91,81,79
+785,F,B,some high school,standard,True,Failed,Failed,Failed
+786,F,E,some high school,free/reduced,False,72,79,77
+787,F,B,some college,standard,False,Failed,Failed,Failed
+788,M,C,associate's degree,free/reduced,False,68,65,61
+789,F,C,master's degree,free/reduced,False,Failed,65,61
+790,F,B,high school,standard,False,Failed,62,60
+791,F,D,some college,free/reduced,False,60,66,70
+792,M,D,high school,free/reduced,False,66,74,69
+793,M,E,some high school,standard,True,89,84,77
+794,F,B,high school,standard,False,Failed,Failed,Failed
+795,F,E,associate's degree,free/reduced,True,57,68,73
+796,M,D,high school,standard,False,70,70,70
+797,F,E,associate's degree,free/reduced,False,70,84,81
+798,M,E,some college,standard,False,69,60,Failed
+799,F,C,associate's degree,standard,False,Failed,55,57
+800,M,C,some high school,standard,True,67,73,68
+801,M,C,some high school,standard,True,76,80,73
+802,F,E,associate's degree,standard,False,87,94,95
+803,F,B,some college,standard,False,82,85,87
+804,F,C,some college,standard,False,73,76,78
+805,M,A,some college,free/reduced,False,75,81,74
+806,F,D,some college,free/reduced,False,64,74,75
+807,F,E,high school,free/reduced,False,Failed,Failed,Failed
+808,M,C,high school,standard,False,90,75,69
+809,M,B,bachelor's degree,standard,False,59,Failed,Failed
+810,M,A,some high school,standard,False,Failed,Failed,Failed
+811,M,A,high school,free/reduced,False,Failed,Failed,Failed
+812,F,C,master's degree,standard,True,Failed,64,67
+813,M,E,some high school,standard,True,87,84,76
+814,F,C,high school,standard,False,72,80,83
+815,M,B,some high school,standard,True,94,86,87
+816,F,A,bachelor's degree,standard,False,Failed,59,64
+817,M,D,bachelor's degree,free/reduced,True,61,70,76
+818,F,B,high school,free/reduced,False,60,72,68
+819,F,C,some high school,standard,False,77,91,88
+820,F,A,some high school,standard,True,85,90,92
+821,F,D,bachelor's degree,free/reduced,False,78,90,93
+822,M,E,some college,free/reduced,True,Failed,Failed,Failed
+823,F,B,high school,free/reduced,False,71,87,82
+824,F,C,some high school,free/reduced,False,Failed,58,Failed
+825,M,C,high school,standard,False,62,67,58
+826,F,C,associate's degree,free/reduced,True,56,68,70
+827,F,C,some high school,standard,False,65,69,76
+828,F,D,some high school,free/reduced,True,69,86,81
+829,M,B,some high school,standard,False,68,Failed,Failed
+830,F,A,some college,free/reduced,False,61,60,57
+831,F,C,bachelor's degree,free/reduced,True,74,86,89
+832,M,A,bachelor's degree,standard,False,64,60,58
+833,F,B,high school,standard,True,77,82,89
+834,M,B,some college,standard,False,58,Failed,Failed
+835,F,C,high school,standard,True,60,64,74
+836,M,E,high school,standard,False,73,64,57
+837,F,A,high school,standard,True,75,82,79
+838,M,B,associate's degree,free/reduced,True,58,57,Failed
+839,F,C,associate's degree,standard,False,66,77,73
+840,F,D,high school,free/reduced,False,Failed,Failed,Failed
+841,M,C,some high school,standard,False,64,58,Failed
+842,F,B,high school,free/reduced,True,Failed,Failed,Failed
+843,M,B,some college,free/reduced,True,74,77,76
+844,F,D,some high school,free/reduced,True,Failed,65,64
+845,M,E,master's degree,standard,False,90,85,84
+846,M,C,master's degree,standard,True,91,85,85
+847,M,D,high school,standard,False,64,Failed,Failed
+848,F,C,high school,standard,False,59,72,68
+849,M,D,associate's degree,standard,False,80,75,69
+850,M,C,master's degree,standard,False,71,67,67
+851,F,A,high school,standard,False,61,68,63
+852,F,E,some college,standard,False,87,85,93
+853,M,E,some high school,standard,False,82,67,61
+854,M,C,some high school,standard,False,62,64,55
+855,F,B,bachelor's degree,standard,False,97,97,96
+856,M,B,some college,free/reduced,False,75,68,65
+857,F,C,bachelor's degree,standard,False,65,79,81
+858,M,B,high school,standard,True,Failed,Failed,Failed
+859,M,C,associate's degree,free/reduced,False,87,73,72
+860,F,C,associate's degree,standard,False,Failed,62,Failed
+861,F,E,master's degree,free/reduced,False,81,86,87
+862,M,D,bachelor's degree,free/reduced,True,Failed,Failed,Failed
+863,F,C,some college,standard,True,71,71,80
+864,M,C,associate's degree,standard,False,97,93,91
+865,M,D,some college,standard,True,82,82,88
+866,M,C,high school,free/reduced,False,59,Failed,Failed
+867,M,B,associate's degree,standard,False,61,Failed,Failed
+868,M,E,associate's degree,free/reduced,True,78,74,72
+869,M,C,associate's degree,free/reduced,False,Failed,Failed,Failed
+870,M,B,high school,standard,False,59,58,Failed
+871,F,C,some college,standard,True,70,72,76
+872,M,B,associate's degree,standard,True,82,84,78
+873,M,E,associate's degree,free/reduced,False,90,90,82
+874,F,C,bachelor's degree,free/reduced,False,Failed,62,61
+875,M,C,some college,free/reduced,False,80,64,66
+876,M,D,some college,standard,False,81,82,84
+877,M,C,some high school,standard,False,57,61,Failed
+878,F,D,some high school,standard,False,59,72,80
+879,F,D,associate's degree,standard,False,64,76,74
+880,M,C,bachelor's degree,standard,True,63,64,66
+881,F,E,bachelor's degree,standard,True,71,70,70
+882,F,B,high school,free/reduced,False,64,73,71
+883,M,D,bachelor's degree,free/reduced,False,55,Failed,Failed
+884,F,E,associate's degree,standard,False,Failed,Failed,Failed
+885,F,C,associate's degree,standard,True,62,76,80
+886,F,E,associate's degree,standard,True,93,100,95
+887,M,C,high school,free/reduced,False,Failed,72,59
+888,F,D,some college,free/reduced,False,69,65,74
+889,M,D,high school,free/reduced,False,Failed,Failed,Failed
+890,F,E,some college,standard,True,86,85,91
+891,F,E,associate's degree,standard,False,85,92,85
+892,F,A,master's degree,free/reduced,False,Failed,67,73
+893,M,D,some high school,standard,True,88,74,75
+894,F,E,associate's degree,standard,False,59,62,69
+895,F,E,some high school,free/reduced,False,Failed,Failed,Failed
+896,M,B,high school,free/reduced,False,Failed,Failed,Failed
+897,F,B,some high school,free/reduced,True,63,78,79
+898,M,D,associate's degree,standard,True,67,Failed,63
+899,F,D,some high school,standard,True,65,78,82
+900,M,D,master's degree,standard,False,85,84,89
+901,F,C,master's degree,standard,False,73,78,74
+902,F,A,high school,free/reduced,True,Failed,Failed,Failed
+903,F,D,bachelor's degree,free/reduced,True,93,100,100
+904,F,D,some high school,free/reduced,False,67,84,84
+905,M,D,some college,standard,False,88,77,77
+906,M,B,high school,standard,False,57,Failed,Failed
+907,F,D,some college,standard,True,79,84,91
+908,F,C,bachelor's degree,free/reduced,False,67,75,72
+909,M,E,bachelor's degree,standard,True,70,64,70
+910,M,D,bachelor's degree,free/reduced,False,Failed,Failed,Failed
+911,F,A,some college,standard,False,69,84,82
+912,F,C,bachelor's degree,standard,True,Failed,61,66
+913,F,C,bachelor's degree,free/reduced,True,Failed,62,66
+914,F,B,associate's degree,free/reduced,False,Failed,61,55
+915,F,E,some college,standard,False,68,70,66
+916,M,E,bachelor's degree,standard,True,100,100,100
+917,F,C,high school,standard,False,Failed,61,Failed
+918,F,C,associate's degree,standard,True,57,77,80
+919,M,B,some college,standard,True,91,96,91
+920,M,D,high school,free/reduced,False,69,70,67
+921,F,C,high school,free/reduced,False,Failed,Failed,Failed
+922,M,D,high school,standard,False,72,66,66
+923,F,B,associate's degree,free/reduced,False,Failed,65,65
+924,M,D,high school,free/reduced,False,74,70,69
+925,M,E,some high school,standard,True,74,64,60
+926,M,E,associate's degree,free/reduced,False,64,56,Failed
+927,F,D,high school,free/reduced,True,65,61,71
+928,M,E,associate's degree,free/reduced,True,Failed,Failed,Failed
+929,F,C,some high school,free/reduced,False,Failed,56,Failed
+930,M,C,some college,free/reduced,True,67,74,70
+931,M,D,some college,free/reduced,False,62,57,62
+932,M,D,associate's degree,free/reduced,True,61,71,73
+933,M,C,bachelor's degree,free/reduced,True,70,75,74
+934,M,C,associate's degree,standard,True,98,87,90
+935,M,D,some college,free/reduced,False,70,63,58
+936,M,A,associate's degree,standard,False,67,57,Failed
+937,F,E,high school,free/reduced,False,57,58,57
+938,M,D,some college,standard,True,85,81,85
+939,M,D,some high school,standard,True,77,68,69
+940,M,C,master's degree,free/reduced,True,72,66,72
+941,F,D,master's degree,standard,False,78,91,96
+942,M,C,high school,standard,False,81,66,64
+943,M,A,some high school,free/reduced,True,61,62,61
+944,F,B,high school,standard,False,58,68,61
+945,F,C,associate's degree,standard,False,Failed,61,58
+946,M,B,high school,standard,False,82,82,80
+947,F,D,some college,free/reduced,False,Failed,58,60
+948,M,B,some high school,free/reduced,True,Failed,Failed,Failed
+949,F,E,high school,free/reduced,True,57,75,73
+950,M,E,high school,standard,False,94,73,71
+951,F,D,some college,standard,True,75,77,83
+952,F,E,some high school,free/reduced,False,74,74,72
+953,M,C,high school,standard,True,58,Failed,Failed
+954,F,C,some college,standard,False,62,69,69
+955,M,E,associate's degree,standard,False,72,57,62
+956,M,C,some college,standard,False,84,87,81
+957,F,D,master's degree,standard,False,92,100,100
+958,F,D,high school,standard,False,Failed,63,59
+959,M,C,high school,standard,False,75,81,71
+960,F,A,some college,standard,False,56,58,64
+961,F,D,some high school,free/reduced,False,Failed,Failed,Failed
+962,F,E,associate's degree,standard,False,100,100,100
+963,F,C,some high school,free/reduced,True,65,76,75
+964,M,D,some college,standard,False,72,57,58
+965,F,D,some college,standard,False,62,70,72
+966,M,A,some high school,standard,True,66,68,64
+967,M,C,some college,standard,False,63,63,60
+968,F,E,associate's degree,standard,False,68,76,67
+969,F,B,bachelor's degree,standard,False,75,84,80
+970,F,D,bachelor's degree,standard,False,89,100,100
+971,M,C,some high school,standard,True,78,72,69
+972,F,A,high school,free/reduced,True,Failed,Failed,60
+973,F,D,some college,free/reduced,False,Failed,65,61
+974,F,A,some college,standard,False,Failed,63,67
+975,F,C,some college,standard,True,64,82,77
+976,M,B,some college,free/reduced,True,60,62,60
+977,M,C,associate's degree,standard,False,62,65,58
+978,M,D,high school,standard,True,55,Failed,Failed
+979,F,C,associate's degree,standard,False,91,95,94
+980,F,B,high school,free/reduced,False,Failed,Failed,Failed
+981,M,D,some high school,standard,False,81,78,78
+982,M,B,some high school,standard,True,79,85,86
+983,F,A,some college,standard,True,78,87,91
+984,F,C,some high school,standard,False,74,75,82
+985,M,A,high school,standard,False,57,Failed,Failed
+986,F,C,associate's degree,standard,False,Failed,59,Failed
+987,M,E,some high school,standard,True,81,75,76
+988,F,A,some high school,free/reduced,False,Failed,Failed,Failed
+989,F,D,some college,free/reduced,True,67,86,83
+990,M,E,high school,free/reduced,True,86,81,75
+991,F,B,some high school,standard,True,65,82,78
+992,F,D,associate's degree,free/reduced,False,55,76,76
+993,F,D,bachelor's degree,free/reduced,False,62,72,74
+994,M,A,high school,standard,False,63,63,62
+995,F,E,master's degree,standard,True,88,99,95
+996,M,C,high school,free/reduced,False,62,55,55
+997,F,C,high school,free/reduced,True,59,71,65
+998,F,D,some college,standard,True,68,78,77
+999,F,D,some college,free/reduced,False,77,86,86
